@@ -5,5 +5,7 @@ werkzeug>=3.0.1
 python-dotenv==1.0.0
 Flask-SQLAlchemy==3.1.1
 SQLAlchemy==2.0.22
-pylint==3.0.2
+pymysql===1.1.0
 mysqlclient==2.2.0
+Flask-Migrate==4.0.4
+#mysql-connector-python==8.2.0 #for mysql 8.0 y no se utiliza mysqlclient
